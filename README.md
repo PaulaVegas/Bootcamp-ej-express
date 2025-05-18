@@ -13,7 +13,7 @@ Navegador web (para la interfaz con Axios)
 ## Screenshots
 
 Ejercicio 2
-[Ejercicio 2](assets/postmanPOST.png)
+![Ejercicio 2](assets/postmanPOST.png)
 
 Ejercicio 3
 ![Ejercicio 2](assets/postman_ej2.png)
