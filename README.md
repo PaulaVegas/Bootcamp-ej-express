@@ -9,3 +9,14 @@ Node.js
 Postman (para pruebas de API)
 
 Navegador web (para la interfaz con Axios)
+
+## Screenshots
+
+Ejercicio 2
+
+![Ejercicio 2](assets/postman_ej2.png)
+![Ejercicio 2](assets/postmanPOST.png)
+
+Extras
+![Ejercicio 3](assets/extraShowProducts.png)
+![Ejercicio 3](assets/extraEditProducts.png)
